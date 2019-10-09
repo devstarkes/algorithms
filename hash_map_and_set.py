@@ -49,3 +49,46 @@ class MyHashMap:
             return
         else:
             del self.buckets[index][index_to_remove]
+            
+class MyHashSet:
+
+    def __init__(self):
+        self.num_buckets = 100
+        self.buckets = [-1 for _ in range(self.num_buckets)]
+
+    def _hash(self, key):
+        return key % self.num_buckets
+
+    def _index(self, key):
+        index = self._hash(key)
+
+        if self.buckets[index] == -1:
+            self.buckets[index] = []
+
+        bucket = self.buckets[index]
+
+        for i, k in enumerate(bucket):
+            if k == key:
+                return bucket, i
+
+        return bucket, -1
+
+    def add(self, key):
+        bucket, idx = self._index(key)
+
+        if idx >= 0:
+            return
+
+        bucket.append(key)
+
+    def remove(self, key):
+        bucket, idx = self._index(key)
+
+        if idx < 0:
+            return
+
+        bucket.remove(key)
+
+    def contains(self, key):
+        _, idx = self._index(key)
+        return idx >= 0
