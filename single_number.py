@@ -1,4 +1,4 @@
-def single_umber(nums):
+def single_number(nums):
     hash_table = {}
 
     for i in nums:
@@ -10,7 +10,7 @@ def single_umber(nums):
     return hash_table.popitem()[0]
 
 
-def single_umber_on_steroids(nums):
+def single_number_on_steroids(nums):
     a = 0
 
     for i in nums:
