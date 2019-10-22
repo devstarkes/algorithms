@@ -22,4 +22,4 @@ def single_number_on_steroids(nums):
 if __name__ == "__main__":
     nums = [2, 3, 2, 4, 3, 4, 0, 8, 2, 7, 0, 8, 7, 1, 2]
     single_number(nums)
-    single_number2(nums)
+    single_number_on_steroids(nums)
