@@ -4,9 +4,9 @@
 14: Happy Number, Roman to Integer
 15: Longest Common Prefix
 22: valid parentheses
+23: search insert position, palindrome number
 
 
 # Try one more time later:
 
-Happy Number
-
+valid parentheses
