@@ -6,9 +6,11 @@
 22: valid parentheses
 23: search insert position, palindrome number
 25: remove duplicates from sorted array
+26: mplement-strstr
 
 
 # Try one more time later:
 
 valid parentheses
 remove duplicates from sorted array
+mplement-strstr
