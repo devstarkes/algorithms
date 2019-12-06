@@ -9,10 +9,14 @@
 26: mplement-strstr
 30: everse-integer
 
+2019 December
+6: merge-two-sorted-lists
+
 
 # Try one more time later:
 
 valid parentheses
 remove duplicates from sorted array
 mplement-strstr
-everse-integer
+merge-two-sorted-lists
+reverse-integer
