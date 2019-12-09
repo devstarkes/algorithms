@@ -7,16 +7,16 @@
 23: search insert position, palindrome number
 25: remove duplicates from sorted array
 26: mplement-strstr
-30: everse-integer
+30: reverse-integer
 
 2019 December
 6: merge-two-sorted-lists
+7: remove-element
 
 
 # Try one more time later:
 
 valid parentheses
 remove duplicates from sorted array
-mplement-strstr
-merge-two-sorted-lists
-reverse-integer
+emplement-strstr
+remove-element
