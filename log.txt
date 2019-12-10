@@ -12,11 +12,11 @@
 2019 December
 6: merge-two-sorted-lists
 7: remove-element
+10: add-two-numbers
 
 
 # Try one more time later:
 
 valid parentheses
-remove duplicates from sorted array
 emplement-strstr
 remove-element
