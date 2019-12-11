@@ -17,6 +17,4 @@
 
 # Try one more time later:
 
-valid parentheses
 emplement-strstr
-remove-element
