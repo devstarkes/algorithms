@@ -14,8 +14,10 @@
 7: remove-element
 10: add-two-numbers
 12: maximum-subarray
+17: length-of-last-word, merge-sorted-array
+
 
 # Try one more time later:
 
 emplement-strstr
-maximum-subarray
+merge-sorted-array
