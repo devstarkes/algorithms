@@ -15,9 +15,9 @@
 10: add-two-numbers
 12: maximum-subarray
 17: length-of-last-word, merge-sorted-array
-
+20: climbing-stairs
 
 # Try one more time later:
 
 emplement-strstr
-merge-sorted-array
+climbing-stairs
