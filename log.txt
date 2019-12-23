@@ -16,8 +16,9 @@
 12: maximum-subarray
 17: length-of-last-word, merge-sorted-array
 20: climbing-stairs
+23: print-in-order
 
 # Try one more time later:
 
 emplement-strstr
-climbing-stairs
+print-in-order
