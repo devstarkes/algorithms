@@ -17,6 +17,7 @@
 17: length-of-last-word, merge-sorted-array
 20: climbing-stairs
 23: print-in-order
+24: plus-one
 
 # Try one more time later:
 
