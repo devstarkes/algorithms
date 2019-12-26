@@ -18,6 +18,7 @@
 20: climbing-stairs
 23: print-in-order
 24: plus-one
+26: same-tree
 
 # Try one more time later:
 
