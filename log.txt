@@ -19,6 +19,7 @@
 23: print-in-order
 24: plus-one
 26: same-tree
+27: remove-duplicates-from-sorted-list
 
 # Try one more time later:
 
