@@ -21,6 +21,9 @@
 26: same-tree
 27: remove-duplicates-from-sorted-list
 
+2020 January
+3: number-of-1-bits
+
 # Try one more time later:
 
 emplement-strstr
