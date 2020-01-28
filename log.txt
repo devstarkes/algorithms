@@ -23,11 +23,9 @@
 
 2020 January
 3: number-of-1-bits
+28: sum-of-even-numbers-after-queries
 
 # Try one more time later:
-
-emplement-strstr
-print-in-order
 remove-duplicates-from-sorted-list
 number-of-1-bits
-
+sum-of-even-numbers-after-queries
