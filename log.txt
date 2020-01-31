@@ -29,4 +29,3 @@
 # Try one more time later:
 remove-duplicates-from-sorted-list
 number-of-1-bits
-sum-of-even-numbers-after-queries
