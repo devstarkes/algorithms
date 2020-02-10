@@ -26,6 +26,7 @@
 28: sum-of-even-numbers-after-queries
 30: robot-return-to-origin
 
+2020 February
+10: reverse-linked-list
+
 # Try one more time later:
-remove-duplicates-from-sorted-list
-number-of-1-bits
