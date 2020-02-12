@@ -28,5 +28,6 @@
 
 2020 February
 10: reverse-linked-list
+12: n-repeated-element-in-size-2n-array
 
 # Try one more time later:
