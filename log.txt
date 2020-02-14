@@ -29,5 +29,6 @@
 2020 February
 10: reverse-linked-list
 12: n-repeated-element-in-size-2n-array
+14: remove-linked-list-elements
 
 # Try one more time later:
