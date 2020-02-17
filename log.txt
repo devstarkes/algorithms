@@ -30,6 +30,8 @@
 10: reverse-linked-list
 12: n-repeated-element-in-size-2n-array
 14: remove-linked-list-elements
+17: linked-list-cycle
 
 # Try one more time later:
 remove-linked-list-elements
+linked-list-cycle
