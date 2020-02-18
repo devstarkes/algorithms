@@ -31,7 +31,7 @@
 12: n-repeated-element-in-size-2n-array
 14: remove-linked-list-elements
 17: linked-list-cycle
+18: linked-list-random-node
 
 # Try one more time later:
-remove-linked-list-elements
-linked-list-cycle
+
