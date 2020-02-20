@@ -32,6 +32,7 @@
 14: remove-linked-list-elements
 17: linked-list-cycle
 18: linked-list-random-node
+20: intersection-of-two-linked-lists
 
 # Try one more time later:
 
