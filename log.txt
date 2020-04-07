@@ -38,6 +38,7 @@
 2: Happy Number(fast-slow)
 4: Move Zeroes
 5: Best Time to Buy and Sell Stock II
+7: Counting Elements
 
 # Try one more time later:
 
