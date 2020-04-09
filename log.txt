@@ -41,6 +41,7 @@
 6: Group Anagrams
 7: Counting Elements
 8: Middle of the Linked List
+9: Backspace String Compare
 
 # Try one more time later:
 
