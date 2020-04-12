@@ -43,6 +43,8 @@
 8: Middle of the Linked List
 9: Backspace String Compare
 10: Min Stack
+11: Diameter of Binary Tree
+12: Last Stone Weight
 
 # Try one more time later:
 
