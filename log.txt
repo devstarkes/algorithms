@@ -48,6 +48,9 @@
 13: Contiguous Array
 14: Perform String Shifts
 15: Product of Array Except Self
+16: Valid Parenthesis String
+17: Number of Islands
+
 
 # Try one more time later:
 
