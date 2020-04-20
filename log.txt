@@ -52,6 +52,7 @@
 17: Number of Islands
 18: Minimum Path Sum
 19: Search in Rotated Sorted Array
+20: Construct Binary Search Tree from Preorder Traversal
 
 # Try one more time later:
 
