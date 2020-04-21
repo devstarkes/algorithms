@@ -53,6 +53,7 @@
 18: Minimum Path Sum
 19: Search in Rotated Sorted Array
 20: Construct Binary Search Tree from Preorder Traversal
+21: Leftmost Column with at Least a One
 
 # Try one more time later:
 
