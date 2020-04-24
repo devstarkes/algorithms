@@ -54,6 +54,8 @@
 19: Search in Rotated Sorted Array
 20: Construct Binary Search Tree from Preorder Traversal
 21: Leftmost Column with at Least a One
+22: Subarray Sum Equals K
+23: Bitwise AND of Numbers Range
 
 # Try one more time later:
 
