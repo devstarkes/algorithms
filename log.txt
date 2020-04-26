@@ -58,6 +58,7 @@
 23: Bitwise AND of Numbers Range
 24: LRU Cache
 25: Jump Game
+26: Longest Common Subsequence
 
 # Try one more time later:
 
