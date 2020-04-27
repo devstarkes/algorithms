@@ -59,6 +59,7 @@
 24: LRU Cache
 25: Jump Game
 26: Longest Common Subsequence
+27: Maximal Square
 
 # Try one more time later:
 
