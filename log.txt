@@ -60,6 +60,7 @@
 25: Jump Game
 26: Longest Common Subsequence
 27: Maximal Square
+28: First Unique Number
 
 # Try one more time later:
 
